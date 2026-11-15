@@ -1,0 +1,967 @@
+KAWSAY NOVA — DEFINITIVE MASTER PROMPT
+ADVANCED ASTRONAUT HEALTH MONITORING SYSTEM
+EXPLORE. MONITOR. PROTECT.
+FROM SPACE TO THE WORLD.
+Build a complete, functional, scientifically responsible, professional, futuristic, responsive web application called KAWSAY NOVA.
+
+KAWSAY NOVA is an advanced astronaut health monitoring platform designed to support the observation, analysis, and understanding of human health during space missions, particularly future long-duration missions to the Moon and Mars.
+
+Its primary purpose is to help monitor astronauts' physical and psychological well-being, analyze biomedical indicators, identify relevant changes, visualize health trends, and provide scientifically responsible information.
+
+Its long-term vision is to explore how this technology could eventually be adapted to terrestrial healthcare, scientific research, hospitals, remote communities, and different environments around the world.
+
+The project originates in Ayacucho, Peru, but its main purpose must remain astronaut health monitoring and space exploration.
+
+This is an independent technological project proposal. Never claim that NASA has officially approved, adopted, funded, or deployed KAWSAY NOVA.
+
+1. OFFICIAL LOGO AND BRAND IDENTITY
+I am providing an official KAWSAY NOVA logo image.
+
+You MUST use the uploaded image as the official logo of the application.
+
+Logo integration requirements:
+- Use the exact uploaded logo as the primary brand identity.
+- Preserve its original design, proportions, colors, typography, symbols, and visual composition.
+- Do not generate a different logo.
+- Do not replace the logo with a generic rocket, icon, or text.
+- Do not distort, stretch, recolor, or unnecessarily crop it.
+- Maintain its visual quality and aspect ratio.
+- Use it prominently on the landing page.
+- Include a smaller version in the application header or navigation area when appropriate.
+- Use it on PDF reports and professional presentation screens.
+- Make sure the logo remains clear on desktop, tablet, and mobile screens.
+- If a transparent or isolated version is available, use it only if it preserves the original design. Otherwise, display the original uploaded image.
+Official brand:
+
+KAWSAY NOVA
+
+Official subtitle for the interface:
+
+ADVANCED ASTRONAUT HEALTH MONITORING SYSTEM
+
+Official slogan:
+
+EXPLORE. MONITOR. PROTECT.
+
+Global vision:
+
+FROM SPACE TO THE WORLD.
+
+The logo's original text must remain unchanged.
+
+2. VISUAL DESIGN AND COLOR SYSTEM
+Create a premium aerospace interface inspired by advanced space mission-control centers, scientific research laboratories, and modern biomedical monitoring systems.
+
+The interface must look professional, innovative, elegant, futuristic, and scientifically credible.
+
+Use this official color palette:
+- Main background: #0B1220
+- Secondary background: #151F30
+- Cards and panels: #1D2A3D
+- Primary cyan: #38BDF8
+- Secondary blue: #60A5FA
+- Primary text: #FFFFFF
+- Secondary text: #CBD5E1
+- Normal status: #22C55E
+- Warning status: #FACC15
+- Critical status: #EF4444
+- Informational status: #38BDF8
+Design requirements:
+- Dark backgrounds with bright, readable text.
+- High contrast between text and backgrounds.
+- Large, simple, readable typography.
+- Use Inter, Roboto, or Open Sans.
+- Rounded cards, subtle borders, and elegant shadows.
+- Scientific charts and clean data visualization.
+- Subtle animations and transitions.
+- Futuristic details inspired by spacecraft, satellites, Earth, stars, and orbital systems.
+- Avoid excessive colors and visual clutter.
+- Maintain a consistent design throughout every module.
+Every alert must include an icon AND a descriptive word or sentence. Never communicate critical information using color alone.
+
+The design must be fully responsive.
+
+3. LANDING PAGE
+Create an impressive opening screen.
+
+Include:
+- The official uploaded KAWSAY NOVA logo.
+- A high-quality astronaut or space-station background.
+- Earth visible from space.
+- Subtle stars, orbital lines, and space elements.
+- KAWSAY NOVA prominently displayed.
+- ADVANCED ASTRONAUT HEALTH MONITORING SYSTEM.
+- EXPLORE. MONITOR. PROTECT.
+- FROM SPACE TO THE WORLD.
+- A global language selector.
+- A clear ENTER SYSTEM button.
+The landing page must create the impression of entering an advanced aerospace medical monitoring platform.
+
+Do not use NASA logos or imply an official NASA partnership.
+
+4. MAIN NAVIGATION AND APPLICATION STRUCTURE
+Create a professional navigation system with the following modules:
+1. Mission Control Dashboard.
+2. Astronaut Profile.
+3. Biomedical Monitoring.
+4. NOVA PRECISION CORE.
+5. NOVA ACCURACY CONTROL.
+6. NOVA DIGITAL TWIN.
+7. NOVA RESILIENCE ENGINE.
+8. NOVA MISSION SIMULATOR.
+9. Space Health Risks.
+10. Mental Well-being.
+11. Sleep and Physical Activity.
+12. Medical Knowledge Center.
+13. Mission Calendar.
+14. Health Analytics.
+15. Medical Reports.
+16. NOVA AI Assistant.
+17. NOVA UNIVERSAL TRANSLATOR.
+18. Global Adaptation.
+19. Settings and Security.
+Every navigation item must open its corresponding functional module.
+
+Use clear icons, labels, active states, and intuitive navigation.
+
+5. MISSION CONTROL DASHBOARD
+Create a comprehensive dashboard that provides an overview of the astronaut's health.
+
+Display:
+- Astronaut identification.
+- Mission name and duration.
+- Current mission phase.
+- Current date and time.
+- Heart rate.
+- Heart rate variability.
+- Blood pressure.
+- Oxygen saturation.
+- Respiratory rate.
+- Body temperature.
+- Blood glucose.
+- Sleep duration.
+- Physical activity.
+- Hydration records.
+- Stress and fatigue indicators.
+- General data-quality status.
+- Recent notifications.
+- Health trends.
+- Upcoming scheduled assessments.
+Use professional cards, graphs, and visual indicators.
+
+Include a summary of recent observations and important changes.
+
+Allow the user to navigate directly from dashboard cards to the corresponding monitoring modules.
+
+6. ASTRONAUT PROFILE
+Create a complete astronaut profile system.
+
+Include:
+- Full name or astronaut identification.
+- Age.
+- Mission identification.
+- Mission duration.
+- Mission start date.
+- Mission destination.
+- Medical background, where authorized.
+- Personal baseline measurements.
+- Relevant health history.
+- Device and sensor information.
+Allow authorized users to create, edit, view, and manage astronaut profiles.
+
+Protect personal and medical information.
+
+Use fictional astronaut profiles for demonstration purposes.
+
+7. BIOMEDICAL MONITORING
+Create a detailed biomedical monitoring module.
+
+Monitor and register the following indicators:
+Cardiovascular system
+- Heart rate (BPM).
+- Heart rate variability (HRV).
+- Systolic blood pressure (mmHg).
+- Diastolic blood pressure (mmHg).
+- Mean arterial pressure (MAP).
+Respiratory system
+- Oxygen saturation (SpO2).
+- Respiratory rate.
+- Relevant respiratory observations.
+Metabolic indicators
+- Blood glucose (mg/dL).
+- Body temperature (°C).
+- Hydration records.
+- Nutrition information.
+Musculoskeletal system
+- Bone mineral density.
+- Muscle strength.
+- Physical performance.
+- Physical activity.
+Sleep and recovery
+- Total sleep duration.
+- Sleep patterns.
+- Estimated sleep stages, when supported by suitable data.
+- Recovery observations.
+Psychological well-being
+- Mood.
+- Stress.
+- Fatigue.
+- Isolation.
+- Emotional well-being.
+- Social connection.
+Each measurement must include:
+- Recorded value.
+- Unit.
+- Date and time.
+- Measurement method.
+- Sensor or device source.
+- Data origin.
+- Data-quality status.
+- Optional observations.
+Allow users to add, edit, delete, search, filter, and review records.
+
+Clearly distinguish:
+1. Real sensor measurements.
+2. Manually entered measurements.
+3. Calculated values.
+4. Simulated demonstration data.
+Never present simulated data as real astronaut measurements.
+
+8. NOVA PRECISION CORE — SCIENTIFIC CALCULATION ENGINE
+Develop a dedicated scientific calculation engine.
+
+Its purpose is to process biomedical information using established scientific equations and measurement methods.
+
+Implement the following where the required input data are available:
+Heart rate
+For ECG-derived heart rate:
+
+HR = 60 / mean RR interval in seconds.
+
+Display the input signal, calculation method, result, and units.
+Heart rate variability
+Calculate RMSSD using successive normal-to-normal intervals:
+
+RMSSD = square root of the mean of squared successive differences between NN intervals.
+
+Account for artifacts and insufficient data.
+
+Clearly state the recording duration and processing limitations.
+Mean arterial pressure
+Use the approximate formula:
+
+MAP ≈ DBP + (SBP - DBP) / 3.
+
+Label this value as an approximation.
+
+Never use this formula to claim that systolic or diastolic blood pressure can be independently determined.
+Oxygen saturation
+Use validated pulse oximeter measurements.
+
+Do not invent SpO2 values from unrelated indicators.
+Respiratory rate
+Use validated respiratory signals or properly documented measurements.
+Body temperature
+Use calibrated temperature measurements and record the measurement method and location.
+Blood glucose
+Use validated glucose meter or continuous glucose monitoring data.
+
+When reference measurements are available, calculate:
+
+MARD = mean of (absolute sensor-reference difference / reference value) × 100%.
+
+Explain that MARD is a measurement accuracy metric and not a guarantee of clinical accuracy.
+Sleep
+Use appropriate validated methods to estimate sleep duration and patterns.
+
+Clearly distinguish estimated sleep stages from directly measured information.
+Physical activity
+Use suitable accelerometer and gyroscope data when available.
+Hydration
+Consider recorded fluid intake and available fluid-loss information.
+
+Never claim that fluid intake alone establishes a person's hydration status.
+Bone health
+Use longitudinal bone mineral density information and validated assessment methods.
+
+For every calculation, display:
+- Calculation name.
+- Scientific formula.
+- Required input data.
+- Output.
+- Measurement units.
+- Explanation.
+- Assumptions.
+- Limitations.
+- Data quality.
+- Validation status.
+- Scientific reference, when available.
+Never invent scientific equations, clinical thresholds, or research references.
+
+If the required information is unavailable, explain what data are needed.
+
+9. NOVA ACCURACY CONTROL
+Create a dedicated data-quality and measurement-reliability system.
+
+Evaluate:
+- Sensor calibration.
+- Device identification.
+- Signal quality.
+- Missing data.
+- Incomplete measurements.
+- Motion artifacts.
+- Possible interference.
+- Timestamp consistency.
+- Implausible values.
+- Repeated measurement consistency.
+- Device limitations.
+Use these labels:
+- HIGH DATA QUALITY.
+- ACCEPTABLE DATA QUALITY.
+- LOW DATA QUALITY.
+- INSUFFICIENT DATA.
+Provide understandable explanations for each status.
+
+Example:
+
+LOW DATA QUALITY — Please repeat the measurement or check the sensor.
+
+Allow users to view the reasons behind a quality classification.
+
+Important: A data-quality score is NOT the same as medical certainty or diagnostic accuracy.
+
+10. NOVA DIGITAL TWIN
+Develop an interactive human-body visualization.
+
+Create a detailed 3D-style model or an advanced interactive 2D model.
+
+Allow users to select different biological systems:
+- Brain and nervous system.
+- Cardiovascular system.
+- Respiratory system.
+- Musculoskeletal system.
+- Immune system.
+- Metabolic system.
+When a system is selected, display:
+- Its main functions.
+- Relevant biomedical indicators.
+- Historical measurements.
+- Potential effects of spaceflight.
+- Available assessment methods.
+- Educational explanations.
+- Preventive information.
+- Data quality.
+Use visual connections between measurements and the corresponding biological systems.
+
+Distinguish real measurements, calculated values, and educational visualizations.
+
+Do not claim that the model reproduces the entire human body or provides a medical diagnosis.
+
+11. NOVA RESILIENCE ENGINE
+This is one of the platform's most important innovations.
+
+Develop a system that analyzes relationships between multiple health indicators.
+
+Consider:
+- Cardiovascular measurements.
+- Sleep patterns.
+- Physical activity.
+- Fatigue.
+- Stress.
+- Psychological well-being.
+- Environmental conditions.
+- Mission phase.
+- Individual health baselines.
+Create a visual RESILIENCE MAP.
+
+Identify observed patterns and possible relationships between different indicators.
+
+Example:
+
+"Changes in sleep duration, physical activity, and heart rate have been observed together. Additional assessment may be useful."
+
+For every observation, display:
+- Indicators involved.
+- Historical period.
+- Available measurements.
+- Data quality.
+- Explanation.
+- Relevant limitations.
+- Additional information that may be required.
+Do not claim that correlations prove causation.
+
+Do not make certain predictions or medical diagnoses.
+
+The purpose is to support scientific observation and responsible interpretation.
+
+12. NOVA MISSION SIMULATOR
+Develop an interactive WHAT-IF simulation environment.
+
+Allow users to explore hypothetical conditions:
+- Microgravity exposure.
+- Long-duration missions.
+- Changes in sleep schedules.
+- Isolation and confinement.
+- Increased workload.
+- Environmental changes.
+- Communication delays.
+- Different mission phases.
+For each scenario, explain:
+- The hypothetical condition.
+- Relevant biological systems.
+- Potentially affected indicators.
+- Possible physiological considerations.
+- Scientific background.
+- Important limitations.
+Allow users to compare different hypothetical scenarios.
+
+Clearly label all outputs:
+
+SIMULATION — NOT AN ACTUAL MEDICAL MEASUREMENT OR VALIDATED INDIVIDUAL PREDICTION.
+
+Never present hypothetical results as real astronaut medical outcomes.
+
+13. SPACE HEALTH RISKS
+Create a dedicated educational module based on the five major spaceflight hazards identified by NASA's Human Research Program.
+
+Include:
+1. Space radiation.
+2. Isolation and confinement.
+3. Distance from Earth.
+4. Gravity fields.
+5. Hostile and closed environments.
+For each hazard, explain:
+- What it is.
+- Why it matters.
+- Potential biological effects.
+- Relevant body systems.
+- Indicators that may be monitored.
+- Available assessment methods.
+- Preventive approaches.
+- Scientific references.
+Use reliable scientific information and distinguish established findings from ongoing research.
+
+14. MENTAL WELL-BEING
+Create a module dedicated to astronaut psychological well-being.
+
+Include:
+- Mood tracking.
+- Stress observations.
+- Fatigue records.
+- Isolation-related observations.
+- Social connection.
+- Sleep-related well-being.
+- Optional self-assessment questionnaires.
+- Historical trends.
+- Educational resources.
+- Relaxation and breathing exercises.
+Use a respectful and nonjudgmental interface.
+
+Do not diagnose psychological conditions.
+
+15. SLEEP AND PHYSICAL ACTIVITY
+Create an independent module for sleep and activity.
+
+Display:
+- Sleep duration.
+- Sleep history.
+- Sleep schedule.
+- Activity records.
+- Steps, when available.
+- Movement patterns.
+- Exercise records.
+- Recovery observations.
+Use charts to compare measurements across days, weeks, and months.
+
+Provide educational information about the importance of sleep and physical activity during space missions.
+
+Avoid encouraging excessive exercise or unnecessary measurements.
+
+16. MEDICAL KNOWLEDGE CENTER
+Build an interactive scientific knowledge library.
+
+Include searchable educational articles about:
+- Cardiovascular health.
+- Respiratory health.
+- Sleep science.
+- Human physiology.
+- Space medicine.
+- Microgravity.
+- Radiation.
+- Bone and muscle changes.
+- Mental well-being.
+- Biomedical sensors.
+- Measurement accuracy.
+- Data interpretation.
+For every indicator, explain:
+- What it measures.
+- Why it matters.
+- How it is measured.
+- Which devices can measure it.
+- Factors affecting accuracy.
+- Potential relevance to spaceflight.
+- How to interpret the information responsibly.
+Use trustworthy sources, including NASA, recognized space agencies, WHO, peer-reviewed journals, and reputable scientific institutions.
+
+Never invent references, article titles, authors, or scientific findings.
+
+Include source links when available.
+
+17. MISSION CALENDAR AND TASK MANAGEMENT
+Create a functional mission calendar.
+
+Allow users to:
+- Schedule health assessments.
+- Schedule measurement reminders.
+- Organize physical activity.
+- Record sleep routines.
+- Plan hydration and nutrition tasks.
+- Schedule mission-related activities.
+- View daily, weekly, and mission schedules.
+- Create, edit, complete, and delete tasks.
+Provide clear notifications and completion status.
+
+18. HEALTH ANALYTICS
+Create a professional analytics module.
+
+Allow users to visualize data using:
+- Daily charts.
+- Weekly charts.
+- Monthly charts.
+- Custom date ranges.
+- Historical comparisons.
+- Personal baseline comparisons.
+- Trend analysis.
+Include appropriate charts for heart rate, HRV, blood pressure, SpO2, respiratory rate, glucose, temperature, sleep, and physical activity.
+
+Every chart must include:
+- Descriptive title.
+- Horizontal and vertical axis labels.
+- Units.
+- Dates.
+- Legends.
+- Numerical values.
+- Clear explanations.
+Charts must update when new records are added or edited.
+
+Never fabricate missing historical information.
+
+19. MEDICAL REPORT GENERATOR
+Create a professional PDF report generator.
+
+Allow users to select:
+- Astronaut profile.
+- Mission.
+- Reporting period.
+- Health indicators.
+- Charts.
+- Alerts.
+- Relevant observations.
+- Data-quality information.
+- Calculation explanations.
+- Sleep and activity information.
+- Psychological well-being records.
+- Scientific references, when applicable.
+Generate a polished aerospace-style report.
+
+Include:
+- Official KAWSAY NOVA logo.
+- Report title.
+- Astronaut identification.
+- Mission information.
+- Date range.
+- Measurement summaries.
+- Charts.
+- Historical trends.
+- Data-quality classifications.
+- Important observations.
+- Limitations.
+- Source and simulation labels.
+Allow users to select the language of the generated report.
+
+The PDF must use the currently selected language or a language selected specifically for the report.
+
+20. NOVA AI ASSISTANT
+Create an integrated educational AI assistant.
+
+It should help users:
+- Understand biomedical indicators.
+- Interpret recorded measurements.
+- Understand historical trends.
+- Explain data-quality alerts.
+- Understand scientific calculations.
+- Learn about spaceflight physiology.
+- Explore the Medical Knowledge Center.
+- Understand hypothetical simulations.
+- Prepare questions for qualified medical professionals.
+- Generate understandable summaries of available information.
+The assistant must:
+- Clearly explain uncertainty.
+- Identify the origin of information.
+- Distinguish measurements from calculations and simulations.
+- Avoid medical diagnoses.
+- Avoid prescriptions.
+- Never invent measurements.
+- Never fabricate scientific references.
+- Never present itself as a substitute for qualified medical professionals.
+If a real AI API is required, implement it only when properly configured.
+
+Protect API keys using secure server-side configuration.
+
+Never expose secret keys in frontend code.
+
+Do not pretend that an unconfigured API is operational.
+
+21. NOVA UNIVERSAL TRANSLATOR — FULL WEBSITE TRANSLATION
+This is a fundamental requirement.
+
+The application must include a complete multilingual translation system.
+
+It is NOT enough to translate only the navigation menu, buttons, or selected technical words.
+
+The entire website must be translatable.
+
+Support these languages:
+1. English.
+2. Spanish.
+3. Ayacucho Quechua.
+4. Portuguese.
+5. French.
+6. German.
+7. Japanese.
+8. Chinese.
+Global language selector
+Place a language selector in the main navigation and settings.
+
+When the user changes the language, all visible content throughout the application must update.
+
+The selected language must remain active when navigating between modules and after reopening the application.
+Translate every part of the interface
+The translation system must cover:
+- Landing page.
+- Dashboard.
+- Navigation.
+- Buttons.
+- Menus.
+- Titles.
+- Subtitles.
+- Labels.
+- Long paragraphs.
+- Scientific explanations.
+- Biomedical descriptions.
+- Alerts.
+- Notifications.
+- Tables.
+- Charts.
+- Chart titles.
+- Axis labels.
+- Legends.
+- Digital Twin explanations.
+- Mission Simulator content.
+- Space health risks.
+- Mental well-being content.
+- Sleep and activity information.
+- Medical Knowledge Center articles.
+- Calendar tasks.
+- Reports.
+- PDF content.
+- Settings.
+- Help sections.
+- Error messages.
+- Empty states.
+- Loading messages.
+- Confirmation messages.
+- NOVA AI responses.
+- Newly generated content.
+For example, if a user changes from English to Spanish, the entire application must become Spanish, including long scientific explanations, paragraphs, notifications, chart descriptions, and generated reports.
+
+Do not leave untranslated sections.
+Dynamic translation
+The system must also translate content that is created after the application has loaded.
+
+This includes:
+- New measurements.
+- New notifications.
+- AI-generated responses.
+- Automatically generated summaries.
+- New educational explanations.
+- System messages.
+- Reports.
+Use a centralized internationalization architecture with language dictionaries and a translation service for dynamic text.
+
+Do not hardcode interface text in multiple components.
+Floating translation tool
+Add a floating translation icon accessible from every module.
+
+When clicked, it should open a translation panel or pop-up.
+
+Users must be able to:
+- Select any visible word.
+- Select technical terms.
+- Translate complete sentences.
+- Translate paragraphs.
+- Translate longer scientific explanations.
+- Choose source language.
+- Choose target language.
+- View original and translated text.
+- Copy the translation.
+- Save useful translations.
+- Hear pronunciation when a reliable pronunciation service is available.
+- View a simple technical explanation.
+Users must not need to leave the current page to translate content.
+Scientific translation accuracy
+Preserve:
+- Mathematical formulas.
+- Numerical values.
+- Measurement units.
+- Scientific symbols.
+- Abbreviations.
+- Biomedical terminology.
+- Original scientific meaning.
+Never alter a measurement or formula during translation.
+Ayacucho Quechua
+Include Ayacucho Quechua as an important supported language.
+
+Use reliable linguistic resources and reviewed terminology.
+
+Do not invent Quechua translations.
+
+When a technical translation is uncertain, clearly identify it as requiring linguistic verification.
+Translation technology
+Use a real translation API or backend service when available and properly configured.
+
+Do not pretend that an external translation service is connected if it is not.
+
+Provide an offline dictionary for essential aerospace, medical, and navigation terminology.
+
+If a translation cannot be completed, show a clear message instead of silently displaying incorrect text.
+
+22. GLOBAL ADAPTATION — FROM SPACE TO THE WORLD
+Create a module that presents the future global applications of KAWSAY NOVA.
+
+The main purpose must always remain astronaut health monitoring.
+
+Explore potential future research and adaptation in:
+- Hospitals.
+- Scientific research centers.
+- Remote communities.
+- Rural healthcare.
+- High-altitude environments.
+- Different climates.
+- Terrestrial health-monitoring applications.
+Include a world map with potential research and adaptation contexts.
+
+Highlight Ayacucho, Peru, as the project's place of origin and a possible future context for terrestrial research.
+
+Explain that these applications require independent scientific research, appropriate validation, and adaptation to local conditions.
+
+Do not claim that the platform is already clinically validated or deployed in these environments.
+
+23. ALERT AND NOTIFICATION SYSTEM
+Create a consistent alert system.
+
+Use:
+
+GREEN — NORMAL.
+
+YELLOW — WARNING.
+
+RED — CRITICAL.
+
+BLUE — INFORMATION.
+
+Every notification must contain:
+- An icon.
+- A descriptive label.
+- A clear explanation.
+- Date and time.
+- Related indicator.
+- Data source.
+- Data-quality information, when relevant.
+- Suggested next step, when scientifically appropriate.
+Do not create arbitrary clinical thresholds.
+
+Use validated reference criteria only when appropriate and clearly explain their limitations.
+
+Never apply sea-level reference values indiscriminately to spaceflight or high-altitude environments.
+
+24. DATA MANAGEMENT, SECURITY, AND OFFLINE FUNCTIONALITY
+Implement:
+- Secure authentication.
+- User permissions.
+- Protected medical records.
+- Input validation.
+- Secure data storage.
+- Privacy controls.
+- Session management.
+- Error handling.
+- Backup and synchronization capabilities.
+- Offline access to previously saved information.
+- Synchronization when an internet connection becomes available.
+- Clear synchronization status.
+- Conflict handling when records are updated from multiple devices.
+Use modular architecture so future validated wearable and biomedical sensor integrations can be added.
+
+Never claim that a sensor, wearable, or external service is connected unless it has actually been implemented and tested.
+
+Treat health information as sensitive data.
+
+25. FUNCTIONAL REQUIREMENTS
+Build a real interactive application, not a static visual mockup.
+
+All components must work.
+
+Implement:
+- Functional navigation.
+- Working buttons.
+- Interactive cards.
+- Editable forms.
+- Data registration.
+- Data modification.
+- Data deletion.
+- Search and filters.
+- Dynamic charts.
+- Functional calculations.
+- Working language selection.
+- Translation panel.
+- Interactive body visualization.
+- Interactive simulations.
+- Calendar management.
+- PDF report generation.
+- Persistent data storage.
+- Responsive layouts.
+- Loading states.
+- Error states.
+- Empty states.
+- Form validation.
+Use React and TypeScript with a clean, modular architecture.
+
+Use reusable components and separate scientific calculation functions from interface components.
+
+Use an appropriate chart library.
+
+Use persistent database storage when available.
+
+Create unit tests for scientific calculations.
+
+Do not leave decorative buttons that do nothing.
+
+If an advanced feature requires an external API, hardware device, or unavailable service, clearly identify the dependency and implement an honest functional demonstration where possible.
+
+26. DEMONSTRATION MODE
+Create a complete demonstration experience using fictional astronaut data.
+
+The demonstration should guide users through the application:
+1. Open the landing page.
+2. Enter the Mission Control Dashboard.
+3. Open a fictional astronaut profile.
+4. Explore biomedical measurements.
+5. Perform a calculation in NOVA PRECISION CORE.
+6. Review a low-quality measurement in NOVA ACCURACY CONTROL.
+7. Explore the NOVA DIGITAL TWIN.
+8. View the NOVA RESILIENCE ENGINE.
+9. Run a hypothetical mission scenario.
+10. Explore space health hazards.
+11. Open the NOVA UNIVERSAL TRANSLATOR.
+12. Change the entire interface language.
+13. Ask NOVA AI a scientific question.
+14. Generate a sample PDF report.
+15. Explore Global Adaptation.
+Clearly label every fictional measurement as DEMO DATA or SIMULATED DATA.
+
+27. SCIENTIFIC RESPONSIBILITY AND LIMITATIONS
+Scientific credibility is essential.
+
+The platform must distinguish:
+- Directly measured values.
+- Manually entered values.
+- Calculated values.
+- Estimated values.
+- Simulated values.
+- Educational information.
+Never:
+- Invent clinical thresholds.
+- Invent scientific references.
+- Claim 100% accuracy.
+- Diagnose medical conditions.
+- Claim that hypothetical scenarios predict actual individual outcomes.
+- Present estimated information as directly measured.
+- Claim a device is connected when it is not.
+- Claim that KAWSAY NOVA is an official NASA system.
+Real astronaut clinical monitoring requires validated equipment, qualified professionals, mission-specific protocols, institutional authorization, and appropriate scientific and clinical validation.
+
+The system must clearly communicate its limitations.
+
+28. DEVELOPMENT PRIORITIES
+Build the platform progressively without sacrificing its overall architecture.
+PHASE 1 — CORE PLATFORM
+Prioritize:
+- Landing page.
+- Official logo integration.
+- Brand identity.
+- Main navigation.
+- Mission Control Dashboard.
+- Astronaut Profile.
+- Biomedical Monitoring.
+- NOVA PRECISION CORE.
+- NOVA ACCURACY CONTROL.
+- Health Analytics.
+- Alerts.
+- Persistent demonstration records.
+- Global language infrastructure.
+PHASE 2 — SCIENTIFIC INNOVATION
+Implement:
+- NOVA DIGITAL TWIN.
+- NOVA RESILIENCE ENGINE.
+- NOVA MISSION SIMULATOR.
+- Space Health Risks.
+- Mental Well-being.
+- Sleep and Physical Activity.
+- Medical Knowledge Center.
+PHASE 3 — ADVANCED FEATURES
+Implement:
+- NOVA AI Assistant.
+- NOVA UNIVERSAL TRANSLATOR.
+- Full website translation.
+- Dynamic content translation.
+- Mission Calendar.
+- Gamification.
+- PDF Reports.
+- Offline functionality.
+- Global Adaptation.
+- Future sensor integrations.
+Do not remove or break existing working features when adding new modules.
+
+29. FINAL QUALITY REQUIREMENTS
+Before considering the application complete, verify:
+1. The uploaded official KAWSAY NOVA logo is displayed correctly.
+2. The brand identity is consistent across all modules.
+3. The interface is responsive on mobile, tablet, and desktop.
+4. All navigation links work.
+5. All buttons perform their intended actions.
+6. Biomedical records can be created, edited, and deleted.
+7. Scientific calculations produce correct results with valid inputs.
+8. Measurement quality is evaluated transparently.
+9. Charts update when records change.
+10. Simulated data are always clearly identified.
+11. The Digital Twin is interactive.
+12. The Resilience Engine explains observed relationships responsibly.
+13. The Mission Simulator clearly identifies hypothetical results.
+14. The PDF generator produces professional reports.
+15. The language selector translates the entire website.
+16. The floating translation tool works across all modules.
+17. Dynamic content can be translated.
+18. Scientific formulas and units remain unchanged during translation.
+19. Ayacucho Quechua translations are handled responsibly.
+20. Data are stored and retrieved appropriately.
+21. Security and privacy controls are implemented.
+22. No fake API, sensor, or external integration is presented as operational.
+The final application must feel like a professional aerospace biomedical platform, combining space exploration, human physiology, scientific analysis, artificial intelligence, and multilingual accessibility.
+
+KAWSAY NOVA must communicate one central idea:
+
+"Protecting human health beyond Earth, advancing scientific knowledge, and exploring possibilities for a healthier world."
+
+EXPLORE. MONITOR. PROTECT.
+
+KAWSAY NOVA — FROM SPACE TO THE WORLD.
